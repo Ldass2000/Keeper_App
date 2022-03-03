@@ -1,3 +1,16 @@
+# Keeper_App
+
+Clone of Google Keep created using hooks and useStates in React.Js and deploy on Netlify
+## Tech Stack
+
+**Tech:** React JS,Html,CSS,Hook
+
+**Diployment:** netlify
+
+# Features
+### Main Screen
+![](https://github.com/Ldass2000/Keeper_App/blob/main/ScreenShot/Keeper%20App.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
