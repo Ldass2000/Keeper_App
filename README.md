@@ -5,7 +5,7 @@ Clone of Google Keep created using hooks and useStates in React.Js and deploy on
 
 **Tech:** React JS,Html,CSS,Hook
 
-**Diployment:** netlify
+**Deployment:** netlify
 
 # Features
 ### Main Screen
